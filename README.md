@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/angular/material2.svg?branch=master)](https://travis-ci.org/angular/material2)
 [![Gitter](https://badges.gitter.im/angular/material2.svg)](https://gitter.im/angular/material2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+This article is used as the test source code backup of the material V6 version, so that you can not find the corresponding test code and component source code when using the UIV library with angularV6. Only for retention sharing, thank you
+
 This is the home for the Angular team's Material Design components built for and with Angular.
 
 #### Quick links
